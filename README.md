@@ -17,7 +17,7 @@ Appium是一个自动化测试开源工具，支持IOS、Android平台上的原�
 
 **工作原理**
 
-![屏幕截图 2021-06-07 091438](Typora_imgs/2021.05.28_移动互联网安全技术_期末报告_Android-Apps-数据收集_assets/屏幕截图 2021-06-07 091438.jpg)
+![屏幕截图 2021-06-07 091438](figs/屏幕截图 2021-06-07 091438.jpg)
 
 ### 1.2 环境配置
 
@@ -41,7 +41,7 @@ HJS5T19829001972        device
 
 在Appium Client中配置变量验证是否工作正常：
 
-![image-20210607092730526](Typora_imgs/2021.05.28_移动互联网安全技术_期末报告_Android-Apps-数据收集_assets/image-20210607092730526.png)
+![image-20210607092730526](figs/image-20210607092730526.png)
 
 点击左侧元素，右侧会出现Android界面xml解析。
 
@@ -301,29 +301,29 @@ if __name__ == '__main__':
 
 获取到70条最近聊天信息（设置70，实际还可以更多，部分截图如下，下同）：
 
-![weixin-2](Typora_imgs/2021.05.28_移动互联网安全技术_期末报告_Android-Apps-数据收集_assets/weixin-2.jpg)
+![weixin-2](figs/weixin-2.jpg)
 
 获取到40条朋友圈动态：
 
-![weixin-4](Typora_imgs/2021.05.28_移动互联网安全技术_期末报告_Android-Apps-数据收集_assets/weixin-4.jpg)
+![weixin-4](figs/weixin-4.jpg)
 
 **2 QQ：获取群聊聊天记录**
 
 获取到70条聊天记录，包括发送人、发送内容、时间等信息：
 
-![qq-2](Typora_imgs/2021.05.28_移动互联网安全技术_期末报告_Android-Apps-数据收集_assets/qq-2.jpg)
+![qq-2](figs/qq-2.jpg)
 
 **3 便签：获取便签笔记内容**
 
 获取到100+条便签记录（便签笔记均来自本人记录）：
 
-![bianqian-2](Typora_imgs/2021.05.28_移动互联网安全技术_期末报告_Android-Apps-数据收集_assets/bianqian-2.jpg)
+![bianqian-2](figs/bianqian-2.jpg)
 
 **4 知乎：获取首页推荐信息流**
 
 获取到100+信息，包括问题名称、答主昵称、回答内容、获赞数目等：
 
-![zhihu-1](Typora_imgs/2021.05.28_移动互联网安全技术_期末报告_Android-Apps-数据收集_assets/zhihu-1-1623034847875.jpg)
+![zhihu-1](figs/zhihu-1-1623034847875.jpg)
 
 ## 2 总结
 
